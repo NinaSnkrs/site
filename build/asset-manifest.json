@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ceb62da.chunk.css",
+    "main.js": "/static/js/main.4e7fc557.chunk.js",
+    "main.js.map": "/static/js/main.4e7fc557.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b73a51ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b73a51ee.js.map",
+    "static/js/2.41596026.chunk.js": "/static/js/2.41596026.chunk.js",
+    "static/js/2.41596026.chunk.js.map": "/static/js/2.41596026.chunk.js.map",
+    "static/js/3.47065af3.chunk.js": "/static/js/3.47065af3.chunk.js",
+    "static/js/3.47065af3.chunk.js.map": "/static/js/3.47065af3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2ceb62da.chunk.css.map": "/static/css/main.2ceb62da.chunk.css.map",
+    "static/js/2.41596026.chunk.js.LICENSE.txt": "/static/js/2.41596026.chunk.js.LICENSE.txt",
+    "static/media/MagicEden.f783ef6b.png": "/static/media/MagicEden.f783ef6b.png",
+    "static/media/discord-logo.c4634138.svg": "/static/media/discord-logo.c4634138.svg",
+    "static/media/light.5473f22d.png": "/static/media/light.5473f22d.png",
+    "static/media/twitter-logo.23e6bb64.svg": "/static/media/twitter-logo.23e6bb64.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b73a51ee.js",
+    "static/js/2.41596026.chunk.js",
+    "static/css/main.2ceb62da.chunk.css",
+    "static/js/main.4e7fc557.chunk.js"
+  ]
+}
